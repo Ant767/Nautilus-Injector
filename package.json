@@ -1,0 +1,20 @@
+{
+  "name": "nautilusinjector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "decompress": "^4.2.1",
+    "fs-extra": "^11.2.0",
+    "tslib": "^2.6.2",
+    "uuid": "^9.0.1",
+    "zip-a-folder": "^3.1.3"
+  }
+}
